@@ -22,22 +22,3 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmvolpato&theme=noctis_minimus&show_icons=true)](https://github.com/tmvolpato/github-readme-stats)
-
-<div style="display: inline_block"><br />
-  
-<a href="https://github.com/tmvolpato/microservices-spring-k8s-gateway">
-  <img align="center" margin-botton="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=tmvolpato&theme=noctis_minimus&show_icons=true&repo=microservices-spring-k8s-gateway" />
-</a>  
-  
-<a href="https://github.com/tmvolpato/mygames-backend">
-  <img align="center" margin-botton="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=tmvolpato&theme=noctis_minimus&show_icons=true&repo=mygames-backend" />
-</a>
-
-<a href="https://github.com/tmvolpato/itinerary-advisor-configuration-server">
-  <img align="center" margin-botton="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=tmvolpato&theme=noctis_minimus&show_icons=true&repo=itinerary-advisor-configuration-server" />
-</a>
-
-<a href="https://github.com/tmvolpato/UserEntity_UserDetails_example">
-  <img align="center" margin-botton="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=tmvolpato&theme=noctis_minimus&show_icons=true&repo=UserEntity_UserDetails_example" />
-</a>
-</div>  
